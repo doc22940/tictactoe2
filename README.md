@@ -2,6 +2,8 @@
 
 A simple Tic Tac Toe game!
 
+![license](https://img.shields.io/github/license/raravi/tictactoe)&nbsp;&nbsp;![last-commit](https://img.shields.io/github/last-commit/raravi/tictactoe)
+
 This is written to demonstrate the use of CSS custom variables and media queries.
 
 ## CSS Custom Variables
