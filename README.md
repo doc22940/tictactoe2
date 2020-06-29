@@ -15,3 +15,5 @@ Before using custom variables, the color properties (of various backgrounds, of 
 Media Queries help a website to become responsive and present itself to the user based on the device display specifications. Smaller and a more compact version on a smaller screen? Yes, you can do that!
 
 Feel free to fork and play around with it!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21VCIL)
